@@ -1,3 +1,3 @@
-export default function demo (){
-    return(<h1>Hello Demo component</h1>)
+export default function Demo() {
+  return <h1>Hello Demo component</h1>;
 }
