@@ -56,7 +56,7 @@ export default function TodoApp() {
         <button className="btn btn-success" onClick={handleCreateTodoTask}>
           Add Task
         </button>
-        {/* <table className="table table-dark">
+        <table className="table table-dark">
           <thead>
             <tr>
               <th>TaskId</th>
@@ -81,7 +81,7 @@ export default function TodoApp() {
               </tr>
             ))}
           </tbody>
-        </table> */}
+        </table>
       </div>
     </>
   );
